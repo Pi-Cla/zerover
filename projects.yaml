@@ -304,6 +304,9 @@ projects:
     url: https://github.com/theskumar/python-dotenv
     gh_url: https://github.com/theskumar/python-dotenv
     reason: 8 years under development, core part of many libraries, just got to 0.20.0
+  - name: Zed
+    url: https://zed.dev/
+    gh_url: https://github.com/zed-industries/zed
   - name: Zig
     url: https://ziglang.org
     gh_url: https://github.com/ziglang/zig
